@@ -1,0 +1,101 @@
+# ------------------------------
+# OS-specific files
+# ------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# WSL / Linux
+.Trash-*
+.nfs*
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Jupyter / Notebook checkpoints
+.ipynb_checkpoints/
+
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# ------------------------------
+# Logs / temp
+# ------------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ------------------------------
+# Others
+# ------------------------------
+# Local data / secrets
+*.sqlite3
+*.db
+*.pkl
+*.jsonl
+*.csv
+*.tsv
+
+# macOS metadata (recursively)
+**/.DS_Store
