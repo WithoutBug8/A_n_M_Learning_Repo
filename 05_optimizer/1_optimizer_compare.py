@@ -24,10 +24,10 @@ grads = {}
 
 # 定义优化器,超参数指定学习率
 optimizers = OrderedDict()
-optimizers["SGD"] = SGD(lr=0.1)
-optimizers["Momentum"] = Momentum(lr=0.1)
-optimizers["AdaGrad"] = AdaGrad(lr=0.1)
-optimizers["Adam"] = Adam(lr=0.1)
+optimizers["SGD"] = SGD(lr=0.9)
+optimizers["Momentum"] = Momentum(lr=0.11, momentum=0.85)
+optimizers["AdaGrad"] = AdaGrad(lr=1.5)
+optimizers["Adam"] = Adam(lr=0.5,alpha1=0.5)
 
 # 子图序号
 idx = 1
