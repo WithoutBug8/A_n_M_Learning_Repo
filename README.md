@@ -1,6 +1,9 @@
 # Assessment & Measurement 学习资料存放仓库
 ### Description
 - 这是我入门学习**测量与评估**时存放文件的仓库，特此在`Github`备份一份，防止数据丢失
+### Index
+1. 机器学习[Machine Learning](./Machine%20Learning)
+2. 深度学习[Deep Learning](./Deep%20Learning)
 ### Plan
 1. 教育统计与测量的基础知识
 2. PyTorch 深度学习
