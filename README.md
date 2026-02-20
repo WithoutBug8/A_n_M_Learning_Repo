@@ -4,12 +4,14 @@
 ### Index
 1. 机器学习[Machine Learning](./Machine%20Learning)
 2. 深度学习[Deep Learning](./Deep%20Learning)
+3. 生成式AI[Generative AI](./Generative%20AI)
 ### Plan
 1. 教育统计与测量的基础知识
 2. PyTorch 深度学习
-3. sklearn 机器学习
-4. NumPy/Pandas/Matplotlib 数据集处理 
-5. R语言入门
+3. Scikit-Learn 机器学习
+4. NumPy/Pandas/Matplotlib 数据处理 
+5. 生成式AI
+6. R语言入门
 ### Notes
 1. 实验环境基于 `Windows 11 WSL2`，所有代码存放在 `Ubuntu 24.04` 具体的文件夹是` /home/bowen/projects/` 。  
 2. 若需要远程连接，请确保 Windows 已放行 `Port 2222`。我已将 SSH 端口映射为 `2222`，以便从我的 `Macbook` 进行远程访问。
