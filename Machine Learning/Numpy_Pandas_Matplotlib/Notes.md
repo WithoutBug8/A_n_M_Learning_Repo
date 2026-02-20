@@ -1,0 +1,10 @@
+# 为什么要学数据分析
+传统的数据处理方式例如`Excel`只能处理有限的数据量，比如10000行以内，但是如果使用Pandas就可以处理1000000行的数据，而且Pandas的数据处理速度比`Excel`快很多。
+
+### 目录
+1. NumPy [Numpy学习笔记](./Numpy)
+   - 高性能的数值计算 **向量/矩阵**
+2. Pandas [Pandas学习笔记](./Pandas)
+   - 数据表格处理
+3. Matplotlib [Matplotlib学习笔记](./Matplotlib)
+   - 数据可视化 
