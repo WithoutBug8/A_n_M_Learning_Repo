@@ -8,4 +8,6 @@ NumPy（Numerical Python） 是 Python 语言的一个扩展程序库，支持�
 - 同质性：数组中的所有元素必须具有相同的数据类型，通过`dtype`指定
 - 高效性：基于**连续的内存块存储**，支持向量化运算
 
-具体内容详见[1. numpy学习.ipynb](./1.%20numpy%E5%AD%A6%E4%B9%A0.ipynb)
+具体内容详见
+- [1. numpy学习.ipynb](./1.%20numpy%E5%AD%A6%E4%B9%A0.ipynb)
+- [2. numpy中常用函数.ipynb](./2.%20numpy%E4%B8%AD%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0.ipynb)
