@@ -4,7 +4,7 @@
 ### 目录
 1. NumPy [Numpy学习笔记](./Numpy)
    - 高性能的数值计算 **向量/矩阵**
-2. Pandas [Pandas学习笔记](./Pandas)
+2. pandas [pandas学习笔记](./pandas)
    - 数据表格处理
 3. Matplotlib [Matplotlib学习笔记](./Matplotlib)
    - 数据可视化 
