@@ -21,7 +21,7 @@ pandas是基于NumPy构建的专门为处理表格和混杂数据设计的Python
 1. 核心数据结构
 
 - Series [Series学习笔记](./Notes/1.%20Series学习笔记.ipynb)
-- DataFrame
+- DataFrame [DateFrame学习笔记](./Notes/2.%20DataFrame学习笔记.ipynb)
 
 2. 数据分析功能
 
