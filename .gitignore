@@ -94,7 +94,6 @@ cover/
 *.db
 *.pkl
 *.jsonl
-*.csv
 *.tsv
 
 # macOS metadata (recursively)
